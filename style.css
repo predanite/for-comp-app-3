@@ -1,0 +1,47 @@
+  .heading
+  {
+    box-shadow:5px 5px 5px rgb(255, 136, 0);
+    border-radius: 20px;
+    border: hotpink;
+    font-size: 20px;
+    width: 100%;
+    margin: 0px;
+    color: firebrick;
+  }
+  .heading_div
+  {
+    background: rgb(0, 38, 255) ; 
+    border-radius: 20px; 
+    color: rgb(255, 255, 255);
+    box-shadow:5px 5px 5px rgb(0, 255, 76);
+  }
+  .heading_div2
+  {
+    font-size: 18px ;
+  }
+  .result_para_tag
+  {
+    box-shadow:5px 5px 5px rgb(255, 0, 221);
+    font-size: 20px;
+    color: rgb(183, 0, 255);
+  }
+  .wheeze{
+    box-shadow:5px 5px 5px rgb(0, 0, 0);
+    font-size: 20px;
+    color: rgb(30, 189, 210);
+  }
+ body{
+   background-image: url("background\ blast.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+ }
+ #lol{
+   color: blueviolet;
+   font-size:30px;
+   position: fixed;
+   bottom: 0px;
+   left: 0px;
+   border: magenta;
+   border-radius: 20px;
+   background-color: brown;
+  }
